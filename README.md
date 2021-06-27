@@ -22,9 +22,9 @@ con la misma contraseña tengan distintos ashes y no se puedan hacer ataques usa
 
 La funcion genera el Hash en base a un Work Factor de 2 iteracciones para hacer más costoso el ataque al hash.
 
-### ------------------------------------------------------ FUENTES ------------------------------------------------------
-https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Generating-a-Good-Random-Salt
-https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php
-https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#work-factors
-https://www.php.net/manual/es/function.hash
-https://es.wikipedia.org/wiki/Secure_Hash_Algorithm#SHA-3
+###  FUENTES 
+- https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Generating-a-Good-Random-Salt
+- https://www.php.net/manual/en/function.openssl-random-pseudo-bytes.php
+- https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#work-factors
+- https://www.php.net/manual/es/function.hash
+- https://es.wikipedia.org/wiki/Secure_Hash_Algorithm#SHA-3
